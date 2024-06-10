@@ -21,7 +21,7 @@ A classic Snake Game implemented with Computer Graphics using C/C++. The game fe
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/SnakeGame-CG-Cpp.git
+   git clone https://github.com/CosmoKramer0/SnakeGame-CG-Cpp.git
    cd SnakeGame-CG-Cpp
 2. **Compile the game**:
     ```bash
